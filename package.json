@@ -1,0 +1,39 @@
+{
+  "name": "grunt-translate_cmd",
+  "description": "grunt cmd id提取工具",
+  "version": "0.1.6",
+  "homepage": "https://github.com/nateyang/grunt-translate_cmd",
+  "author": {
+    "name": "nateyang",
+    "email": "593147660@qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nateyang/grunt-translate_cmd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nateyang/grunt-translate_cmd/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/nateyang/grunt-translate_cmd/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt": "~0.4.4"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.4"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
