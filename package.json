@@ -1,7 +1,7 @@
 {
   "name": "grunt-translate_cmd",
   "description": "grunt cmd id提取工具",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "homepage": "https://github.com/nateyang/grunt-translate_cmd",
   "author": {
     "name": "nateyang",
